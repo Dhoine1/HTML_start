@@ -1,0 +1,49 @@
+.navigation{
+    float: right;
+    height: 100%;
+}
+ 
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+    background-color: #000000;
+}
+ 
+.navigation a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 20px;
+    color: white;
+}
+
+#main{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 50px;
+    color: white;
+	background-color: #000000;
+}
+ 
+.navigation a:hover{
+    background-color: gray;
+    color: #101010;
+}
+
+#head {
+	background-color: black;
+	width:100%;
+	padding: 20px 20px 20px 20px;
+}
+
+#text{
+	font-size: 30px;
+	color:black;
+}
+
+#text_inside{
+	font-size: 24px;
+	color:black;
+}
+	
